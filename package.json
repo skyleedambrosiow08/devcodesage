@@ -1,0 +1,33 @@
+{
+  "name": "devcodesage",
+  "version": "1.0.2",
+  "description": "devcodesage",
+  "type": "module",
+  "main": "devcodesage.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyleedambrosiow08/devcodesage"
+  },
+  "website": "https://github.com/skyleedambrosiow08/devcodesage.git",
+  "keywords": [
+    "devcodesage"
+  ],
+  "author": "skyleedambrosiow08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyleedambrosiow08/devcodesage/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/skyleedambrosiow08/devcodesage#readme",
+  "dependencies": {
+    "scriptcraftsavvy": "1.0.2",
+    "codecraftpro": "1.0.2",
+    "user_system_authenticationsse": "1.0.2"
+
+  }
+}
